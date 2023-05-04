@@ -1,0 +1,10 @@
+Development Plan:
+1. Create skeleton design for program based on paper drawing
+2. Create exercise object 
+3. Create function to add object to log preview
+4. Add clear log function
+5. Add save log function (to save to txt file)
+6. Consider the addition of more features after original is functional
+
+Notes during development:
+1.First commit 05/04/2023
